@@ -18,7 +18,7 @@ Use `git clone` to download the project files from GitHub to your local machine.
 ## Installation Requirements
 - Git  
 - A web browser (e.g., Chrome, Firefox)  
-- A text editor (optional — e.g., VS Code, Sublime)
+- A text editor (VS Code)
 
 ### Installation instruction
 git clone https://github.com/lolirock238/challenge1.git
@@ -28,6 +28,7 @@ git clone https://github.com/lolirock238/challenge1.git
 
 ### technologies use
 Javasript
+Github
 
 ### support and contact details
 https://github.com/lolirock238
