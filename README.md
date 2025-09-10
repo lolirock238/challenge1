@@ -17,7 +17,7 @@ Use `git clone` to download the project files from GitHub to your local machine.
 
 ## Installation Requirements
 - Git  
-- A web browser (e.g., Chrome, Firefox)  
+- A web browser (Chrome)  
 - A text editor (VS Code)
 
 ### Installation instruction
