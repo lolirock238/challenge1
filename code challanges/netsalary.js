@@ -57,4 +57,4 @@ function calculateNetSalary(basicSalary, benefits = 0) {
 console.log(calculateNetSalary(100000, 0));
 console.log(calculateNetSalary(30000, 5000));
 console.log(calculateNetSalary(20000, 0));
-console.log(calculateNetSalary("75000", "0")); // string inputs are accepted (coerced)
+console.log(calculateNetSalary("75000", "0")); 
