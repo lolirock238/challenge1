@@ -6,7 +6,7 @@ function calculateNetSalary(basicSalary, benefits = 0) {
   basicSalary = Number(basicSalary);
   benefits = Number(benefits);
   if (Number.isNaN(basicSalary) || basicSalary < 0 || Number.isNaN(benefits) || benefits < 0) {
-    throw new Error("Invalid input: basicSalary and benefits must be non-negative numbers.");
+     return Error("Invalid input: basicSalary and benefits must be non-negative numbers.");
   }
 
   // Gross salary
