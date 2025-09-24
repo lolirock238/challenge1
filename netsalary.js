@@ -27,7 +27,7 @@ function calculateNetSalary(basicSalary, benefits = 0) { //converts in put into 
       tax + (salary - 24000) * 0.25;
       salary = 24000;
     }
-    tax += salary * 0.10;
+    tax + salary * 0.10;
     return Math.max(0, tax - 2400); // make sure tax cant be negative
   }
 
